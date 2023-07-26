@@ -13,3 +13,8 @@ print(pessoa)
 pessoa.append([1,2,3])
 
 print(pessoa)
+print(pessoa[1])
+
+for i in pessoa:
+    print(i)
+
